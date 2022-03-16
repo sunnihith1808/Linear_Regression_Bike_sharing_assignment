@@ -23,6 +23,7 @@ The following are the significant variables for predicting the demand for shared
 - seasons summer, winter
 - weathersit of mist and lightsnow 
 - mnth_sep
+
  we can draw the conclusions as below
  
 - Rentals are increasing year on year. We can expect increase in rentals going forward in subsequent years
